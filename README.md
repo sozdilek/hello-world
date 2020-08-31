@@ -1,2 +1,2 @@
-# European eel
+# My first repository on GitHub
 
